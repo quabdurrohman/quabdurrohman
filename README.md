@@ -1,16 +1,15 @@
-## Hi there 👋
+# Assalomu alaykum, I'm Abduraxmon 
 
-<!--
-**quabdurrohman/quabdurrohman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering student at **New Uzbekistan University** (class of 2028), currently in **Yandex ML School**.
+I'm working toward ML engineering — building models 
 
-Here are some ideas to get you started:
+### 🔭 Right now
+- Working through the Yandex ML School course → [ymls-ml-course](https://github.com/quabdurrohman/ymls-ml-course)
+- Practicing on Kaggle and LeetCode
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Stack
+**ML:** Python · NumPy · pandas · scikit-learn · Jupyter
+**Other:** C/C++ · Git · Linux
+
+### 📫 Reach me
+[LinkedIn](https://linkedin.com/in/abdurahmon-qutbiddinov) · [LeetCode](https://leetcode.com/u/Goriybun/)
