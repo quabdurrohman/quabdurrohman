@@ -1,7 +1,7 @@
 # Assalomu alaykum, I'm Abduraxmon 
 
 Software Engineering student at **New Uzbekistan University** (class of 2028), currently in **Yandex ML School**.
-I'm working toward ML engineering — building models 
+I'm working towards ML engineering — building models and the systems that serve themt
 
 ### 🔭 Right now
 - Working through the Yandex ML School course → [ymls-ml-course](https://github.com/quabdurrohman/ymls-ml-course)
